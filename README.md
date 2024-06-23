@@ -18,7 +18,7 @@ VISITOR COUNT<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan80bayev&theme=shadow_blue&layout=compact"width="48%"/> 
 </p>  
 <p align="center">
-  <a href="https://github.com/oraclebrain?tab=repositories">
+  <a href="https://github.com/sayan80bayev">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=sayan80bayev&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@Sayan80bayev's github-readme-stats">
   </a>
   <a href="https://github.com/sayan80bayev?tab=stars">
