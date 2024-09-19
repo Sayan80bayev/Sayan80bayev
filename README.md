@@ -1,6 +1,9 @@
 <h1>Hi 👋, I'm Sayan</h1>
 <h3>- Backend developer from Kazakhstan</h3>
 <h3>- 📫 How to reach me sayan123serv@gmail.com, https://t.me/SayanL1</h3>
+<picture>
+  <img alt="github-snake" src="https://github.com/Sayan80bayev/Sayan80bayev/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 <p>
   <a href="https://github.com/sayan80bayev">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=sayan80bayev&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@Sayan80bayev's github-readme-stats">
@@ -17,7 +20,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan80bayev&theme=shadow_blue&layout=compact"width="48%"/> 
 </p> 
 <br/>
-
 
 <h3>MAIN STACK</h3>
 <p >
@@ -55,6 +57,8 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+</p>
+<p>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
   </a>
