@@ -1,15 +1,16 @@
 <h1>Hi 👋, I'm Sayan</h1>
 <h3>- Backend developer from Kazakhstan</h3>
+<h3>- Currently working from home</h3>
 <h3>- 📫 How to reach me sayan123serv@gmail.com, https://t.me/SayanL1</h3>
 <picture>
   <img alt="github-snake" src="https://github.com/Sayan80bayev/Sayan80bayev/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 <p>
   <a href="https://github.com/sayan80bayev">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=sayan80bayev&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@Sayan80bayev's github-readme-stats">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=sayan80bayev&theme=dracula&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@Sayan80bayev's github-readme-stats">
   </a>
   <a href="https://github.com/sayan80bayev?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=sayan80bayev&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@Sayan80bayev's github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=sayan80bayev&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@Sayan80bayev's github-readme-streak-stats">
   </a>
   
 </p>
@@ -17,7 +18,7 @@
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan80bayev&theme=shadow_blue&layout=compact"width="48%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan80bayev&theme=dracula&layout=donut"width="48%"/> 
 </p> 
 <br/>
 
