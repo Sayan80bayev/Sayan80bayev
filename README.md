@@ -7,10 +7,10 @@
 </picture>
 <p>
   <a href="https://github.com/sayan80bayev">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=sayan80bayev&theme=dracula&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@Sayan80bayev's github-readme-stats">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=sayan80bayev&theme=dracula&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="49%" alt="@Sayan80bayev's github-readme-stats">
   </a>
   <a href="https://github.com/sayan80bayev?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=sayan80bayev&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@Sayan80bayev's github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=sayan80bayev&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="50%" alt="@Sayan80bayev's github-readme-streak-stats">
   </a>
   
 </p>
@@ -18,26 +18,26 @@
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan80bayev&theme=dracula&layout=donut"width="48%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan80bayev&theme=dracula&layout=compact"width="100%"/> 
 </p> 
 <br/>
 
 <h3>MAIN STACK</h3>
 <p >
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" />
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60" />
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60" />
   </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="60" height="60"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/> </a>
 </p>
 
 <h3>OTHER</h3>
