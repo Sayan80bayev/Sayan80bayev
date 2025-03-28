@@ -1,16 +1,15 @@
 <h1>Hi 👋, I'm Sayan</h1>
 <h3>- Software Engineer from Kazakhstan</h3>
-<h3>- Currently learning Go</h3>
 <h3>- How to reach me 
     <ul>
         <li>
           <img src="email.png" height="15px"> 
           <a href="mailto:sayan123serv@gmail.com">sayan123serv@gmail.com</a>
         </li>        
-        <li><img src="telegram.png" height="15px"> <a src="https://t.me/SayanL1">sayan</li>
+        <li><img src="telegram.png" height="15px"> <a href="https://t.me/SayanL1">sayan</li>
     </ul>
 </h3>
-<img src="aestheticcs.png" height="420" width="100%" style="object-fit: cover; display: block;"><picture>
+<picture>
   <img alt="github-snake" src="https://github.com/Sayan80bayev/Sayan80bayev/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
