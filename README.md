@@ -1,4 +1,5 @@
 <h1>Hi 👋, I'm Sayan</h1>
+<img src="https://media.tenor.com/ZZu2QC-efdUAAAAi/cute-cat-white.gif">
 <h3>- Software Engineer from Kazakhstan</h3>
 <h3>- How to reach me 
     <ul>
